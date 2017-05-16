@@ -2,6 +2,7 @@
   "name": "webpack2-angular1-typescript2",
   "version": "1.0.0",
   "main": "src/app.ts",
+  "repository": "https://github.com/gamliela/webpack2-angular1-typescript2.git",
   "author": "gamliela <alon@gamliela.com>",
   "license": "MIT",
   "dependencies": {
